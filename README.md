@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://mrgucc.github.io/fem-dropdown-nav/)
+- Live Site URL: [Add live site URL here](https://fem-dropdown-nav.vercel.app/)
 
 ## My process
 
@@ -54,5 +54,5 @@ The biggest thing I learned from this project is that I need to prioritize struc
 
 ## Author
 
-- Website - [Matthew Guccione](https://www.your-site.com)
+- Website - [Matthew Guccione](https://fem-dropdown-nav.vercel.app/)
 - Frontend Mentor - [@mrgucc](https://www.frontendmentor.io/profile/mrgucc)
